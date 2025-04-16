@@ -141,6 +141,7 @@ body {
   background-color: #F6F6FE;
   height: fit-content;
   gap: 16px;
+  flex-wrap: wrap;
 }
 #controls,#boxes{
   margin: 16px 24px;
